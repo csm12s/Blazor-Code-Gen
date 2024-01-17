@@ -4,11 +4,12 @@ DBを基づいてWebシステムを自動作成
 
 Generate Web App based on DB
 
-・サーバー：C#.Net, Entity Framework
+・サーバー：C# .Net, Entity Framework, RazorEngine
 
-・クライアント：Blazor/WPF
+・クライアント：C# Blazor/WPF, And Design UI
 
-・環境：Windows、SQL Server/MySQL
+・環境：Windows、SQL Server, MySQL, SQLite
+
 
 Url:
 https://gitee.com/hgflydream/Gardener
@@ -19,5 +20,9 @@ Edit:
 ![2 edit](https://github.com/csm12s/Blazor-Web-App-Code-Generation/assets/64699457/98d72c67-c7fc-4944-a5e1-2b7ab7074169)
 Edit Column Details:
 ![3 setting](https://github.com/csm12s/Blazor-Web-App-Code-Generation/assets/64699457/f81de584-197e-4599-b242-7ea3afbd3a67)
+Generated Files:
+![NKl2mjMLdJ](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/101313d5-0334-4a64-afa8-78a4d4fe403f)
+
+
 
 End
