@@ -2,7 +2,6 @@
 
 DBを基づいてWebシステムを自動作成
 
-Generate Web App based on DB
 
 ・サーバー：C# .Net, Entity Framework, RazorEngine
 
