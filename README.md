@@ -23,6 +23,14 @@ Edit Column Details:
 Generated Files:
 ![NKl2mjMLdJ](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/101313d5-0334-4a64-afa8-78a4d4fe403f)
 
+**RazorEngine Source Code**
+
+Model Template:
+![model temp](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/14601a36-d545-4a11-93d4-b045ba0835ac)
+
+View Page Template:
+![view temp](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/7d2651d9-a2e0-48b7-ba0a-a67317f7da6f)
+
 
 
 End
