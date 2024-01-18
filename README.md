@@ -19,8 +19,16 @@ Edit:
 ![2 edit](https://github.com/csm12s/Blazor-Web-App-Code-Generation/assets/64699457/98d72c67-c7fc-4944-a5e1-2b7ab7074169)
 Edit Column Details:
 ![3 setting](https://github.com/csm12s/Blazor-Web-App-Code-Generation/assets/64699457/f81de584-197e-4599-b242-7ea3afbd3a67)
-Generated Files:
+
+**Generated Files**
+
+
 ![NKl2mjMLdJ](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/101313d5-0334-4a64-afa8-78a4d4fe403f)
+
+DB Table Locale:
+
+![Ym2hWo4bC0](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/49cc4309-407c-47a7-beb8-66dfff4b2421)
+
 
 **RazorEngine Source Code**
 
