@@ -38,6 +38,9 @@ Model Template:
 View Page Template:
 ![view temp](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/7d2651d9-a2e0-48b7-ba0a-a67317f7da6f)
 
+Other Files Templates (SQL, XML, Json...):
+
+![FAkPWYmxvf](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/288e25f5-5af2-4af1-b12d-40d82cb8be96)
 
 
 End
