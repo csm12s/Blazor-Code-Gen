@@ -22,6 +22,13 @@ Edit Column Details:
 
 **Generated Files**
 
+１，Server：Model、Controller、Service、API Controller、Locale Files...
+
+２，Client：Web Page、API Controller...
+
+３，Other Files：VisualStudio Project File、Json Config...
+
+
 
 ![NKl2mjMLdJ](https://github.com/csm12s/Blazor-Code-Gen/assets/64699457/101313d5-0334-4a64-afa8-78a4d4fe403f)
 
